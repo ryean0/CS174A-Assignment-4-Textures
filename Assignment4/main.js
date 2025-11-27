@@ -8,7 +8,7 @@ const {Cube, Axis_Arrows, Textured_Phong} = defs
 
 export class Assignment4 extends Scene {
     /**
-     *  **Base_scene** is a Scene that can be added to any display canvas.
+     *  **Assignment4** is a Scene that can be added to any display canvas.
      *  Setup the shapes, materials, camera, and lighting here.
      */
     constructor() {

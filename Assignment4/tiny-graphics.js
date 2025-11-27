@@ -1,7 +1,7 @@
 /**
  * @file A file that shows how to organize a complete graphics program.
  * It wraps common WebGL commands and math.
- * The file tiny-graphics-widgets.js additionally wraps web page interactions.  By Garett.
+ * The file tiny-graphics-widgets.js additionally wraps web page interactions.  By Garrett.
  */
 
 export const tiny = {};
